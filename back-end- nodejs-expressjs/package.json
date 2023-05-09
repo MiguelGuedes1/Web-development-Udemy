@@ -1,0 +1,17 @@
+{
+  "name": "back-end--nodejs-expressjs",
+  "version": "1.0.0",
+  "description": "Curso de node js",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "marvel-dc-name-generator": "^1.1.0"
+  }
+}
